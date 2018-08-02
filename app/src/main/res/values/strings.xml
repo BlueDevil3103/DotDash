@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dot-Dash</string>
+    <string name="min_pass">Password is less than 6 characters</string>
+</resources>
